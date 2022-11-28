@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+//finish adding category schema for products
 
 const categorySchema = new mongoose.Schema(
   {
