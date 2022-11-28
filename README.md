@@ -4,7 +4,7 @@ This website allows users to find and buy watches
 The website has section for admin and section for user.
 
 ## Database used
---> Mongodb database is used.<br>
+--> Mongodb database is used.
 <br>--> uuid for generating unique salt
 <br>--> crypto for hashing of passwords
 <br>--> mongoose for establishing connection between our express app and the mongoDB
